@@ -9,4 +9,4 @@ Team Members and roles: Mohammed Saad              : Manage Trello, hold regular
                         
 Project Description: The system is a University Clinic Appointment Booking Software that helps expedite and simplify the process of                              healthcare from booking an appointment to viewing the report/prescription for both the students and the                                     doctors/practitioners.
 
-Overview of SDLC: Planning was done by first analyzing requirements and identifying user stories. The tasks were then distributed amongst                     the team as mentioned above, 
+Overview of SDLC: Planning was done by first analyzing requirements and identifying user stories. The tasks were then distributed amongst                     the team as mentioned above, and the development process was split into 2 sprints
